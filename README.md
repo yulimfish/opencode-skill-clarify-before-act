@@ -2,7 +2,7 @@
 
 > opencode 技能：在真的存在分支决策的任务上，用**一条**确认消息卡住手，让用户一次拍板 —— 而不是眼睁睁看着 agent 一路瞎猜。
 
-隶属 [`opencode-codex-kit`](https://github.com/Yulimfish/opencode-codex-kit)。
+隶属 [`opencode-workflow-kit`](https://github.com/Yulimfish/opencode-workflow-kit)。
 
 ## 什么时候触发
 
